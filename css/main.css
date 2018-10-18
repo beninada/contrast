@@ -11,9 +11,17 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color: #fff;
     font-size: 1em;
+    font-family: monospace;
     line-height: 1.4;
+    background: #262625;
+}
+
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-top: 10%;
 }
 
 /*
